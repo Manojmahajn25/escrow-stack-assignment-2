@@ -1,4 +1,4 @@
-# Escrow Stack – Assignment 1
+# Escrow Stack – Assignment 2
 
 ## 📊 Stock Broker Dashboard
 
